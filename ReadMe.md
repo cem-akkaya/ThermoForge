@@ -3,7 +3,6 @@
 [![Plugin version number](https://img.shields.io/github/v/release/cem-akkaya/ThermoForge?label=Version)](https://github.com/cem-akkaya/ThermoForge/releases/latest)
 [![Unreal Engine Supported Versions](https://img.shields.io/badge/Unreal_Engine-5.6-9455CE?logo=unrealengine)](https://github.com/cem-akkaya/ThermoForge/releases)
 [![License](https://img.shields.io/github/license/cem-akkaya/ThermoForge)](LICENSE)
-![Download count](https://img.shields.io/github/downloads/cem-akkaya/ThermoForge/total)
 [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 
 <img src="Resources/Splash.jpeg" alt="plugin-thermo-forge" width="100%"/>
@@ -40,44 +39,51 @@ If you want to contribute, feel free to create a pull request.
 
 Some examples of Thermo Forge plugin in action:
 
-  <figure style="display:inline-block; margin:10px; width:370px;">
+<div align="center">
+
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
     <img src="Resources/Demo1.gif" alt="Room with spotlight accuracy" width="370"/>
-    <figcaption align="center" width="370">
-     Grid previews and heat visualization in-editor with default density settings.Multiple sources, blocking geometry, and occulusion is used to simulate heat distribution.e
-    </figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; width:370px;">
+    <p align="center">
+      Grid previews and heat visualization in-editor with default density settings. Multiple sources, blocking geometry, and occlusion simulate heat distribution.
+    </p>
+  </div>
+
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
     <img src="Resources/Demo2.gif" alt="Activate in Plugins menu" width="370"/>
-    <figcaption align="center" width="370">
-      Top down view of heat distribution and in a level with multiple sources, blocking geometry, influenced from season, occulusion, and weather.
-    </figcaption>
-  </figure>
+    <p align="center">
+      Top-down view of heat distribution in a level with multiple sources and geometry, influenced by season, occlusion, and weather.
+    </p>
+  </div>
 
-  <figure style="display:inline-block; margin:10px; width:370px;">
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
     <img src="Resources/Demo3.gif" alt="Heat distribution" width="370"/>
-    <figcaption align="center" width="370">
-     Multiple heat sources and multiple volumes with gradual dispersion and constant temperature options.
-    </figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; width:370px;">
-    <img src="Resources/Demo4.gif" alt="Editor preview tools" width="370"/>
-    <figcaption align="center" width="370">
-      Day and night temperatures are automatically adjusted based on the time of day and weather.
-    </figcaption>
-  </figure>
+    <p align="center">
+      Multiple heat sources across volumes with gradual dispersion and constant temperature options.
+    </p>
+  </div>
 
-  <figure style="display:inline-block; margin:10px; width:370px;">
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
+    <img src="Resources/Demo4.gif" alt="Editor preview tools" width="370"/>
+    <p align="center">
+      Day and night temperatures automatically adjust based on the time of day and weather.
+    </p>
+  </div>
+
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
     <img src="Resources/Demo5.gif" alt="Heat distribution" width="370"/>
-    <figcaption align="center" width="370">
-      Seasons and weather affect the temperature of the level with the defined location and season shift settings solely on UTC.
-    </figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; width:370px;">
+    <p align="center">
+      Seasons and weather affect level temperature with UTC-based location and seasonal shift settings.
+    </p>
+  </div>
+
+  <div style="width:370px; display:inline-block; margin:10px; vertical-align:top;">
     <img src="Resources/Demo6.gif" alt="Editor preview tools" width="370"/>
-    <figcaption align="center" width="370">
-      Closed areas are automatically occluded giving brief temporal dispersion making cooler inside or dissipating heat less.
-    </figcaption>
-  </figure>
+    <p align="center">
+      Closed areas are automatically occluded, giving brief temporal dispersion and making interiors cooler or more insulated.
+    </p>
+  </div>
+
+</div>
 
 
 
