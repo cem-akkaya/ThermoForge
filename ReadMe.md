@@ -40,40 +40,40 @@ If you want to contribute, feel free to create a pull request.
 
 Some examples of Thermo Forge plugin in action:
 
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo1.gif" alt="Room with spotlight accuracy" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo1.gif" alt="Room with spotlight accuracy" width="370"/>
     <figcaption align="center">
      Grid previews and heat visualization in-editor with default density settings.Multiple sources, blocking geometry, and occulusion is used to simulate heat distribution.e
     </figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo2.gif" alt="Activate in Plugins menu" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo2.gif" alt="Activate in Plugins menu" width="370"/>
     <figcaption align="center">
       Top down view of heat distribution and in a level with multiple sources, blocking geometry, influenced from season, occulusion, and weather.
     </figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo3.gif" alt="Heat distribution" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo3.gif" alt="Heat distribution" width="370"/>
     <figcaption align="center">
      Multiple heat sources and multiple volumes with gradual dispersion and constant temperature options.
     </figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo4.gif" alt="Editor preview tools" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo4.gif" alt="Editor preview tools" width="370"/>
     <figcaption align="center">
       Day and night temperatures are automatically adjusted based on the time of day and weather.
     </figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo5.gif" alt="Heat distribution" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo5.gif" alt="Heat distribution" width="370"/>
     <figcaption align="center">
       Seasons and weather affect the temperature of the level with the defined location and season shift settings solely on UTC.
     </figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px; width:385px;">
-    <img src="Resources/Demo6.gif" alt="Editor preview tools" width="385"/>
+  <figure style="display:inline-block; margin:10px; width:370px;">
+    <img src="Resources/Demo6.gif" alt="Editor preview tools" width="370"/>
     <figcaption align="center">
       Closed areas are automatically occluded giving brief temporal dispersion making cooler inside or dissipating heat less.
     </figcaption>
